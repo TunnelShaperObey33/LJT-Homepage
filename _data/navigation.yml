@@ -1,0 +1,4 @@
+# Simplified navigation: only About (home) and Publications, no other pages
+main:
+  - title: "Publications"
+    url: /publications/
